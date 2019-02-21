@@ -8,4 +8,5 @@ github_username: stichting-solaris
 
 # Build settings
 markdown: kramdown
-theme: minima
+# Supported themes are available here: https://pages.github.com/themes/
+theme: Architect

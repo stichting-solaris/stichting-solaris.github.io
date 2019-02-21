@@ -2,9 +2,9 @@
 title: Stichting Solaris Onderzoek en Ontwikkeling
 author: Natalia Bielczyk
 email: solaris.nijmegen@gmail.com
-description: foundation
-twitter username: solaris_oo
-github username: stichting-solaris
+description: a foundation
+twitter_username: solaris_oo
+github_username: stichting-solaris
 
 # Build settings
 markdown: kramdown

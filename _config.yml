@@ -8,4 +8,4 @@ github_username: stichting-solaris
 
 # Build settings
 markdown: kramdown
-theme: dinky
+theme: midnight

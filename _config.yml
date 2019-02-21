@@ -5,7 +5,7 @@ description: a foundation dedicated to early career researchers > # this means t
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: @solaris_oo
+twitter_username: solaris_oo
 github_username: stichting-solaris
 
 # Build settings

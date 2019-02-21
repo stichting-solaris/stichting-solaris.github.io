@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Stichting Solaris Onderzoek en Ontwikkeling
+email: solaris.nijmegen@gmail.com
+description: a foundation dedicated to early career researchers > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: @solaris_oo
+github_username: stichting-solaris
 
 # Build settings
 markdown: kramdown
